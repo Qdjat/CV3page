@@ -1,0 +1,33 @@
+
+#conteneur{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    margin: auto;
+    background-color: #495057;
+    color: lightyellow;
+    }
+    img{
+    border-radius: 10px;
+}
+    body{
+        background-color: #6c757d;
+    }
+  #conteneur2{
+      display: flex;
+    justify-content: space-evenly;
+  }  
+.colonne{
+    min-width: 30%;
+    min-height: 100%;
+}
+fieldset{
+    background-color: #495057;
+    color: lightyellow;
+    
+}
+h1, h2{
+    text-decoration: underline;
+}
+

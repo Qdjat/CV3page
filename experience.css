@@ -1,0 +1,60 @@
+#conteneur{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+    margin: auto;
+    background-color: #495057;
+    color: lightyellow;
+    background: linear-gradient(to top,#495057, #6c757d);
+    }
+    body{
+        background-color: #6c757d;
+    }
+
+    fieldset{
+        background-color: #495057;
+        color: lightyellow;
+        display: flex;   
+    }
+    .style{
+        font-style: italic;
+    }
+    h1, h2{
+        text-decoration: underline;
+    }
+ /* animation 
+ @keyframes example{
+      from {color: chartreuse;}
+      to {color: cyan;}
+    
+  }
+  @keyframes movement{
+    0%   { left:0px; top:0px;}
+    25%  { left:200px; top:0px;}
+    50%  { left:200px; top:200px;}
+    75%  { left:0px; top:200px;}
+    100% { left:0px; top:0px;}
+  }
+  .el3 {
+    animation-name: movement;
+    position: relative;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+
+  .el2 {
+    
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+
+changement de couleur
+.dégradé {
+  background: linear-gradient(to right,blue, 10%, pink);
+}
+fieldset{
+  background: linear-gradient(to left,blue, 10%, pink);
+   }  */

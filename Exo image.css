@@ -1,0 +1,21 @@
+#conteneur{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+
+}
+div{
+    width: 50%;   
+}
+img{
+    opacity:1;
+    margin: 10px;
+}
+img:hover{
+    opacity:0;
+}
+body{
+    background-image: url(https://www.petafrance.com/wp-content/uploads/2021/03/Skyla_Loro-Parque-800x515.jpg);
+    background-size: cover;
+}
